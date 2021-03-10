@@ -10,14 +10,6 @@ Natural Language Processing
 Named Entity Recognition
 
 
-
-Files
-Starter Notebook
-
-
-Instructions
-
-
 1 - Sentiment Analysis
 Use the newsapi to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
 Use descriptive statistics to answer the following questions:
