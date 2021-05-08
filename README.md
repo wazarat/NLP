@@ -1,6 +1,7 @@
 # Unit 12—Tales from the Crypto
 
-![Stock Sentiment](Images/sentimental.jpeg)
+![image](https://user-images.githubusercontent.com/70607134/117537693-adde0880-afd0-11eb-8979-d551ebfedf8d.png)
+
 
 ## Background
 
@@ -63,9 +64,11 @@ Next, look at the ngrams and word frequency for each coin.
 
 Finally, generate word clouds for each coin to summarize the news for each coin.
 
-![btc-word-cloud.png](Images/btc-word-cloud.png)
+![image](https://user-images.githubusercontent.com/70607134/117537706-c4845f80-afd0-11eb-932b-2e29f8ac2eb7.png)
 
-![eth-word-cloud.png](Images/eth-word-cloud.png)
+![image](https://user-images.githubusercontent.com/70607134/117537720-dc5be380-afd0-11eb-9ff3-c414bdf2640c.png)
+
+
 
 ---
 
@@ -73,9 +76,10 @@ Finally, generate word clouds for each coin to summarize the news for each coin.
 
 In this section, you will build a named entity recognition model for both coins and visualize the tags using SpaCy.
 
-![btc-ner.png](Images/btc-ner.png)
+![image](https://user-images.githubusercontent.com/70607134/117537738-ec73c300-afd0-11eb-81f6-85591996eb97.png)
 
-![eth-ner.png](Images/eth-ner.png)
+
+![image](https://user-images.githubusercontent.com/70607134/117537754-01e8ed00-afd1-11eb-8f3f-e8792068d098.png)
 
 ---
 
